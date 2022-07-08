@@ -7,7 +7,5 @@ I'm Ruslan, Junior frontend developer
 <a href="https://codepen.io/ruslan_veliev" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-%2312100E.svg?&style=for-the-badge&logo=CodePen&logoColor=white" /></a> 
 <a href="https://telegram.org/@RuslanV90" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 </p>
-<div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=ruslan9090" alt="visitor badge"/>
-</div>  
 
